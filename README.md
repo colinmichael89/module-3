@@ -26,4 +26,4 @@ THEN the password is either displayed in an alert or written to the page
 
 The following image shows the web application's appearance and functionality:
 
-![Screenshot of working application](./module-3/password-generator.png)
+![Screenshot of working application](./password-generator.png)
