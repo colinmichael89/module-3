@@ -83,7 +83,6 @@ function generatePassword() {
   console.log(characterLength);
 
   // series of conditional statements
-
   // set up conditional to return null if characterLength is greater than 128
   if (characterLength > 128) {
     alert("Must choose a number between 8 and 128");
@@ -144,7 +143,6 @@ function generatePassword() {
           }
         }
       }
-
       // Create a for loop that would iterate the character length chosen that will randomly select from our password array
       return password;
     }
